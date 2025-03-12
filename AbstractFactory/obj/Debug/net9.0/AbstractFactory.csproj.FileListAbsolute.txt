@@ -1,0 +1,14 @@
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\bin\Debug\net9.0\AbstractFactory.exe
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\bin\Debug\net9.0\AbstractFactory.deps.json
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\bin\Debug\net9.0\AbstractFactory.runtimeconfig.json
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\bin\Debug\net9.0\AbstractFactory.dll
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\bin\Debug\net9.0\AbstractFactory.pdb
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfoInputs.cache
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfo.cs
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.dll
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\refint\AbstractFactory.dll
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.pdb
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.genruntimeconfig.cache
+E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\ref\AbstractFactory.dll
