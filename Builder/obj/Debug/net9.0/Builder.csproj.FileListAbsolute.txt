@@ -1,0 +1,15 @@
+M:\Projects\DesignPatterns\Builder\bin\Debug\net9.0\Builder.exe
+M:\Projects\DesignPatterns\Builder\bin\Debug\net9.0\Builder.deps.json
+M:\Projects\DesignPatterns\Builder\bin\Debug\net9.0\Builder.runtimeconfig.json
+M:\Projects\DesignPatterns\Builder\bin\Debug\net9.0\Builder.dll
+M:\Projects\DesignPatterns\Builder\bin\Debug\net9.0\Builder.pdb
+M:\Projects\DesignPatterns\Builder\obj\Debug\net9.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+M:\Projects\DesignPatterns\Builder\obj\Debug\net9.0\Builder.AssemblyInfoInputs.cache
+M:\Projects\DesignPatterns\Builder\obj\Debug\net9.0\Builder.AssemblyInfo.cs
+M:\Projects\DesignPatterns\Builder\obj\Debug\net9.0\Builder.csproj.CoreCompileInputs.cache
+M:\Projects\DesignPatterns\Builder\obj\Debug\net9.0\Builder.sourcelink.json
+M:\Projects\DesignPatterns\Builder\obj\Debug\net9.0\Builder.dll
+M:\Projects\DesignPatterns\Builder\obj\Debug\net9.0\refint\Builder.dll
+M:\Projects\DesignPatterns\Builder\obj\Debug\net9.0\Builder.pdb
+M:\Projects\DesignPatterns\Builder\obj\Debug\net9.0\Builder.genruntimeconfig.cache
+M:\Projects\DesignPatterns\Builder\obj\Debug\net9.0\ref\Builder.dll

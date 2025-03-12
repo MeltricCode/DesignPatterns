@@ -12,3 +12,18 @@ E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\refi
 E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.pdb
 E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.genruntimeconfig.cache
 E:\Design Patterns Training\DesignPatterns\AbstractFactory\obj\Debug\net9.0\ref\AbstractFactory.dll
+M:\Projects\DesignPatterns\AbstractFactory\bin\Debug\net9.0\AbstractFactory.exe
+M:\Projects\DesignPatterns\AbstractFactory\bin\Debug\net9.0\AbstractFactory.deps.json
+M:\Projects\DesignPatterns\AbstractFactory\bin\Debug\net9.0\AbstractFactory.runtimeconfig.json
+M:\Projects\DesignPatterns\AbstractFactory\bin\Debug\net9.0\AbstractFactory.dll
+M:\Projects\DesignPatterns\AbstractFactory\bin\Debug\net9.0\AbstractFactory.pdb
+M:\Projects\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+M:\Projects\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfoInputs.cache
+M:\Projects\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfo.cs
+M:\Projects\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.csproj.CoreCompileInputs.cache
+M:\Projects\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.sourcelink.json
+M:\Projects\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.dll
+M:\Projects\DesignPatterns\AbstractFactory\obj\Debug\net9.0\refint\AbstractFactory.dll
+M:\Projects\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.pdb
+M:\Projects\DesignPatterns\AbstractFactory\obj\Debug\net9.0\AbstractFactory.genruntimeconfig.cache
+M:\Projects\DesignPatterns\AbstractFactory\obj\Debug\net9.0\ref\AbstractFactory.dll
