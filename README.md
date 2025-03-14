@@ -1,4 +1,5 @@
 💡 Design Patterns (GoF) in C#
+
 This repository contains implementations of all Gang of Four (GoF) design patterns in C#. The goal of this project is to provide clear and simple examples for each pattern, making it easier for developers to understand and apply them in their projects.
 
 ## 📐 Pattern Categories
@@ -50,6 +51,7 @@ You can clone this repository and run each pattern independently:
 
 📚 Resources
 Book: Design Patterns: Elements of Reusable Object-Oriented Software (Gang of Four)
+
 
 🎯 Project Goals
 ✅ Improve understanding of design patterns
