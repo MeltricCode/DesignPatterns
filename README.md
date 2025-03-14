@@ -4,12 +4,14 @@ This repository contains implementations of all Gang of Four (GoF) design patter
 
 ## 📐 Pattern Categories
 
+
 ### 📌Creational Patterns
 - **Factory Method**
 - **Abstract Factory**
 - **Builder**
 - **Prototype**
 - **Singleton**
+
 
 📌Structural Patterns
 - **Adapter**
@@ -19,6 +21,7 @@ This repository contains implementations of all Gang of Four (GoF) design patter
 - **Facade**
 - **Flyweight**
 - **Proxy**
+
 
 📌Behavioral Patterns
 - **Chain of Responsibility**
@@ -33,7 +36,8 @@ This repository contains implementations of all Gang of Four (GoF) design patter
 - **Template Method**
 - **Visitor**
 
-## ⭐ **If you find this helpful, please give it a star!** ⭐
+
+## ⭐ **If you find this helpful, please give it a star** ⭐
 
 🚀 How to Use
 You can clone this repository and run each pattern independently:
