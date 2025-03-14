@@ -36,10 +36,18 @@ This repository contains implementations of all Gang of Four (GoF) design patter
 - **Template Method**
 - **Visitor**
 
+📚 Resources
+Book: Design Patterns: Elements of Reusable Object-Oriented Software (Gang of Four)
 
-## ⭐ **If you find this helpful, please give it a star** ⭐
 
-🚀 How to Use
+## 🎯 Project Goals
+- **✅ Improve understanding of design patterns**
+- **✅ Provide practical and readable examples**
+- **✅ Help developers improve software design**
+
+- **⭐ **If you find this helpful, please give it a star** ⭐**
+  
+## 🚀 How to Use
 You can clone this repository and run each pattern independently:
 1. Clone the repository: 
    ```bash
@@ -53,13 +61,3 @@ You can clone this repository and run each pattern independently:
    ```bash
    dotnet run
    ```
-
-
-📚 Resources
-Book: Design Patterns: Elements of Reusable Object-Oriented Software (Gang of Four)
-
-
-🎯 Project Goals
-✅ Improve understanding of design patterns
-✅ Provide practical and readable examples
-✅ Help developers improve software design
