@@ -2,8 +2,8 @@
 
 This repository contains implementations of all Gang of Four (GoF) design patterns in C#. The goal of this project is to provide clear and simple examples for each pattern, making it easier for developers to understand and apply them in their projects.
 
-## 📐 Pattern Categories
 
+## 📐 Pattern Categories
 
 ### 📌Creational Patterns
 - **Abstract Factory**
