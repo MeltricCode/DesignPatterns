@@ -13,7 +13,7 @@ This repository contains implementations of all Gang of Four (GoF) design patter
 - **Singleton**
 
 
-📌Structural Patterns
+### 📌Structural Patterns
 - **Adapter**
 - **Bridge**
 - **Composite**
@@ -23,7 +23,7 @@ This repository contains implementations of all Gang of Four (GoF) design patter
 - **Proxy**
 
 
-📌Behavioral Patterns
+### 📌Behavioral Patterns
 - **Chain of Responsibility**
 - **Command**
 - **Interpreter**
@@ -36,11 +36,11 @@ This repository contains implementations of all Gang of Four (GoF) design patter
 - **Template Method**
 - **Visitor**
 
-📚 Resources
+### 📚 Resources
 Book: Design Patterns: Elements of Reusable Object-Oriented Software (Gang of Four)
 
 
-## 🎯 Project Goals
+### 🎯 Project Goals
 - **✅ Improve understanding of design patterns**
 - **✅ Provide practical and readable examples**
 - **✅ Help developers improve software design**
@@ -61,4 +61,3 @@ You can clone this repository and run each pattern independently:
    ```bash
    dotnet run
    ```
-   <!-->Hello GitHub!<-->
