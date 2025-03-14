@@ -6,9 +6,9 @@ This repository contains implementations of all Gang of Four (GoF) design patter
 
 
 ### 📌Creational Patterns
-- **Factory Method**
 - **Abstract Factory**
 - **Builder**
+- **Factory Method**
 - **Prototype**
 - **Singleton**
 
