@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{54C6A660-CBBC-4808-818B-22158C2C9D81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{05AB45D5-BE61-4505-BA00-EEA9FDA556C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{54C6A660-CBBC-4808-818B-22158C2C9D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54C6A660-CBBC-4808-818B-22158C2C9D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54C6A660-CBBC-4808-818B-22158C2C9D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05AB45D5-BE61-4505-BA00-EEA9FDA556C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05AB45D5-BE61-4505-BA00-EEA9FDA556C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05AB45D5-BE61-4505-BA00-EEA9FDA556C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05AB45D5-BE61-4505-BA00-EEA9FDA556C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
