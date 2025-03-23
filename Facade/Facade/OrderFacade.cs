@@ -4,18 +4,10 @@ namespace Facade.Facade;
 
 public class OrderFacade
 {
-    private readonly PaymentService _paymentService;
-    private readonly InventoryService _inventoryService;
-    private readonly ShippingService _shippingService;
-    private readonly NotificationService _notificationService;
-
-    public OrderFacade()
-    {
-        _paymentService = new PaymentService();
-        _inventoryService = new InventoryService();
-        _shippingService = new ShippingService();
-        _notificationService = new NotificationService();
-    }
+    private readonly PaymentService _paymentService = new();
+    private readonly InventoryService _inventoryService = new();
+    private readonly ShippingService _shippingService = new();
+    private readonly NotificationService _notificationService = new();
 
     public void PlaceOrder(string productId, string cardNumber, decimal amount, string address, string email)
     {
