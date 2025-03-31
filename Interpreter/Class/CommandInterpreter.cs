@@ -9,7 +9,7 @@ public class CommandInterpreter
     {
         var expressions = new List<IExpression>();
         
-        var commands = command.Split(',');
+        string[] commands = command.Split(',');
 
         foreach (string cmd in commands)
         {
