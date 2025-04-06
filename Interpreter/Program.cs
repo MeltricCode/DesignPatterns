@@ -3,8 +3,12 @@ using Interpreter.Class;
 using Interpreter.Implementation;
 using Interpreter.Interface;
 
-// The Interpreter pattern processes a given language by defining a grammar and evaluating expressions based on it.  
-// It is useful for parsing, interpreting, and executing structured text or expressions dynamically.  
+// Interpreter Pattern:
+// A behavioral design pattern that defines a grammar for interpreting sentences
+// and provides an interpreter to evaluate the expressions in that grammar.
+// It is useful when you need to interpret or execute sentences in a specific language,
+// often in the context of parsing and interpreting structured data like expressions or queries.
+
 
 Context context = new();
 CommandInterpreter  interpreter = new();
