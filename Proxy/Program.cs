@@ -2,12 +2,12 @@
 using Proxy;
 using Proxy.Implementation;
 
-/*
-The Proxy Design Pattern acts as an intermediary (or "middle class")
-between the client and the real object (the original class).
-It works exactly like the real object but allows you to control,
-modify, or enhance the behavior before or after calling the actual implementation.
-*/
+// Proxy Pattern:
+// A structural design pattern that provides a surrogate or placeholder for another object to control access to it.
+// It is used to add a layer of control, such as lazy loading, access control, logging, or caching.
+// The proxy implements the same interface as the original object and forwards requests to it,
+// optionally adding extra behavior before or after the call.
+
 
 OrderServiceProxy orderProxy = new(new OrderService());
 

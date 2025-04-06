@@ -1,11 +1,12 @@
 ﻿using Decorator.Concrete;
 using Decorator.Enum;
 
-/*
-The Decorator Design Pattern promotes modularity and
-extensibility while adhering to the Open/Closed Principle (OCP)
-by enabling dynamic behavior modifications without modifying existing code.
- */
+// Decorator Pattern:
+// A structural design pattern that allows behavior to be added to an object dynamically,
+// without modifying its original class or using inheritance.
+// It wraps the original object in a new class that adds the desired behavior.
+// Useful for adding responsibilities to objects in a flexible and reusable way.
+
 
 // Base Logger
 Logger logger2 = new();

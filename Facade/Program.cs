@@ -1,6 +1,6 @@
 ﻿using Facade.Facade;
 
-
+// Facade Pattern:
 // The Facade Pattern provides a simplified interface to a complex system.
 // It hides the complexity of multiple subsystems and exposes a unified API.
 // This improves code maintainability, reduces dependencies, and enhances readability.
