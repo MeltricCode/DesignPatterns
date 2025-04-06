@@ -1,5 +1,11 @@
-﻿
-using Singleton.Aproaches;
+﻿using Singleton.Aproaches;
+
+// Singleton Pattern:
+// A creational design pattern that ensures a class has only one instance
+// and provides a global point of access to that instance.
+// It is used when you need to control access to a shared resource, like a database connection
+// or a configuration manager, and ensure that only one instance of the class is created.
+
 
 TestClassicSingletoneLogger();
 TestThreadSafeSingletonLogger();
